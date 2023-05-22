@@ -1,0 +1,23 @@
+.App1{
+    width: 40%;
+    border-top: 1px solid black;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.App2{
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.bt-name{
+    height: 30px;
+    width: 80px;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+}
